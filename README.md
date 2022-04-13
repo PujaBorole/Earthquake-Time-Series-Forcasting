@@ -7,3 +7,7 @@ It is web application to analyse and forecast the magnitude and depth of future 
 
 ![image](https://user-images.githubusercontent.com/91648422/163156690-d007c784-6d0d-4042-8ed1-7776ce455be2.png)
 
+# Implementation and Results
+
+
+![image](https://user-images.githubusercontent.com/91648422/163158022-6ec0d1a1-f2f1-44ce-900c-18b870dc66d1.png)
